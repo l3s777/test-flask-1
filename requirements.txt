@@ -1,0 +1,13 @@
+Flask==1.0.2
+numpy
+matplotlib
+torchvision
+pillow==4.1.1
+wget
+os
+json
+Image
+Path
+BytesIO
+base64
+re
