@@ -69,8 +69,6 @@ pybase64==0.5.0
 pydot==1.4.1
 Pygments==2.2.0
 pyparsing==2.3.1
-python-dateutil==2.7.5
-python-mnist==0.6
 pytz==2018.9
 PyYAML==5.1
 pyzmq==17.1.2
